@@ -1,7 +1,7 @@
 # <p align="center">Support Vector Machines (SVMs)</p>
 
 <p align="center">
-  <img width="460" height="300" src="https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjNkc_l5PTiAhVMKuwKHfc6CtEQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ritchieng.com%2Fmachine-learning-svms-support-vector-machines%2F&psig=AOvVaw17BwhT5EgqMK-qr5oyQH_5&ust=1561007648841392">
+  <img width="460" height="300" src="https://cdn-images-1.medium.com/max/1200/1*QJZVKh-YHhPn5Q83kzJ96Q.png">
 </p>
 
 This is a notebook which demonstrates results of applying Support Vector Machines(SVMs) Algorithm on the dataset which consists of reviews of
